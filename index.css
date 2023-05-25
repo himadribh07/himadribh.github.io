@@ -1,0 +1,65 @@
+body {
+
+    font-size: 25px;
+    height: 100%;
+    overflow: scroll;
+    font-family: 'Roboto', sans-serif;
+    scroll-behavior: smooth;
+}
+
+.bottomleft {
+    position: fixed;
+    bottom: 8px;
+    left: 16px;
+    font-size: 18px;
+
+
+}
+
+.icon,
+.text {
+    vertical-align: middle;
+    display: inline-block;
+
+}
+
+h3 {
+    display: inline;
+    float: left;
+    margin-top: 0px;
+    position: fixed;
+}
+
+h5 {
+    display: inline;
+    float: right;
+    margin-top: 10px;
+    position: right-fixed;
+}
+
+.cover {
+    text-align: center;
+    display: block;
+    margin-left: 400px;
+    margin-right: auto;
+    width: 300px;
+    height: 100%;
+}
+
+.fixed-right {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    font-size: large;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+    color: #251d20;
+}
+
+.issue5-div {
+    background-color: #00c1b5;
+}
+
+.issue7-div {
+    background: #ff608c;
+}
