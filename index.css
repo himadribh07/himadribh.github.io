@@ -31,10 +31,10 @@ h3 {
 }
 
 h5 {
-    display: inline;
+
     float: right;
     margin-top: 10px;
-    position: right-fixed;
+    position: fixed;
 }
 
 .cover {
@@ -62,4 +62,5 @@ h5 {
 
 .issue7-div {
     background: #ff608c;
+
 }
